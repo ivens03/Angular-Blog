@@ -1,0 +1,11 @@
+.containerMeuBar ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.containerMeuBar li {
+    display: flex;
+    flex-direction: row;
+
+    margin-right: 20px;
+}

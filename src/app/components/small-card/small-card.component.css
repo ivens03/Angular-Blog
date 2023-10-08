@@ -1,0 +1,27 @@
+.containerSmallCard {
+    width: 650px;
+
+    display: flex;
+    flex-direction: row;
+
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.smallCardImg img {
+    width: 350px;
+    min-width: 350px;
+    margin-right: 30px;
+}
+
+.smallCardTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.separador {
+    margin-top: 15px;
+    margin-left: 50px;
+}
